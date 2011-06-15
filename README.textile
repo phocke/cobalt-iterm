@@ -1,0 +1,17 @@
+h1. Cobalt theme for iterm2
+
+!http://i1212.photobucket.com/albums/cc455/Przemek_Hocke/Screenshot2011-06-15at161615.png!
+
+h2. How to install:
+
+
+
+download iTerm2 here: http://www.iterm2.com/#/section/home
+
+open iterm => click 'profiles' and then 'open profiles' or just use '⌘O'
+choose your default profile and click 'edit'
+choose 'colors' tab
+then look for 'load presets ...' select box
+choose 'Import ...'
+
+that's it! :)
